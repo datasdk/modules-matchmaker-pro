@@ -1,0 +1,15 @@
+{
+    "name": "Tasks",
+    "alias": "tasks",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Tasks\\Providers\\TasksServiceProvider"
+      
+    ],
+    "aliases": {
+  
+    },
+    "requires": []
+}
