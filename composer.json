@@ -1,7 +1,10 @@
 {
-    "name": "nwidart/tasks",
+    "name": "datasdk/matchmakerpro-module",
+    "type": "laravel-module",
+    "license": "proprietary",
+
     "description": "Tasks module for Laravel 10 project",
-    "type": "library",
+
     "require": {
         "multicaret/laravel-acquaintances": "3.7",
         "dompdf/dompdf": "^3.1",
@@ -9,8 +12,8 @@
     },
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Kasper L. Kristiansen",
+            "email": "info@datas.dk"
         }
     ],
     "extra": {
